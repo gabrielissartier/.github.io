@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+   
+    
+        
+    
+        <meta charset="utf-8">
+        <title>Projet dérivé de "Projet : site de voyage"</title>
+        <style>
+        body { background-color:rgb(0, 126, 58);}
+        .titre{background-color:rgb(252, 61, 50);}
+        .tete{background-color:white;}
+             
+         
+    </style>
+    </head>
+    <body>
+    
+        <h1 class="tete">visiter madagascar </h1>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Madagascar-carte.png"alt="carte de madagascar">
+        <p class="titre">Vous souhaitez vous envoler pour un lieu fascinant et ensoleillé ? Madagascar est une destination qui saura vous émerveiller par ses paysages mêlant plages au sable blanc, végétation luxuriante, rizières et baobabs. Séparée de l’Afrique par le canal de Mozambique, l’île de Madagascar est un mélange fascinant entre l’Asie et l’Afrique. Découvrez lors de votre voyage à Madagascar des paysages qui sauront vous étonner et vous fasciner à chaque escale. Le Nord et les îlots aux alentours forment un paradis tropical particulièrement dépaysant. À l’Ouest, les savanes, rythmées par les silhouettes des baobabs, et traversées par de nombreux fleuves rappellent l’Afrique toute proche. À l’Est de Madagascar, c’est une végétation luxuriante, sertie par des plages et lagons turquoise d’une rare beauté, qui attend le visiteur. Dans le sud qui est traversé par le tropique du Capricorne, c’est le soleil qui règne en maître toute l’année. Le centre, terre d’histoire par excellence fascine pour ses anciens palais, mais aussi pour son relief étonnant marqué ici et là par l’érosion. Partir à Madagascar, c’est donc la garantie de vivre une aventure dépaysante. Découvrez sa culture et ses principaux lieux d’intérêts !</P>
+        <h2>quelque lieux phares</h2>
+        
+        <h3>
+        <h3 class="tete" ><li><em><strong>Les Tsingys du parc national de Bemahara</strong></em></li></h3> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Tsingy_2008.jpg/1024px-Tsingy_2008.jpg" alt="formation rocheuseuse issue de l'erosion"width="250">
+        
+        <p class="titre">À Madagascar, ne ratez surtout pas la visite d’un tsingy, un paysage aussi magnifique que surréaliste. Il s’agit de plateaux calcaires qui ont été sculptés patiemment par les attaques répétées de l’eau. D’étonnants labyrinthes rocheux aux bords dentelés et aux pics acérés se déploient sur des dizaines de milliers d’hectares. Les tsingys de Bemahara situé à proximité de Morondava sont particulièrement impressionnants. Leur accès est complexe par endroit, c’est pourquoi il faut bien préparer son excursion et avoir du temps pour en profiter. Vous pouvez explorer le parc national de Bemahara de multiples façons. Descendez en pirogues les rivières qui le traversent ou engouffrez-vous sur les sentiers de randonnées. Ainsi, vous découvrirez la végétation spécifique qui compose les forêts sèches et la savane.
+Amateurs de sensations fortes? appréciez les ponts de singes au-dessus du vide ou dévalez ce lieu en VTT. Les plus intrépides tenteront peut être la descende en rappel dans les structures souterraines des tsingys.</p>
+
+<h3 class="tete"><li><em><strong>L'allée de baobab de Morondava</strong></em></li></h3><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Adansonia_grandidieri_Pat_Hooper.jpg/1024px-Adansonia_grandidieri_Pat_Hooper.jpg"alt="trés grands arbres"width="300">
+       <p class="titre">Arbre emblématique de Madagascar, le baobab s’exhibe fièrement dans une allée iconique à l’ouest du pays. Entre Morondava et Belon'i Tsiribihina, la route est jalonnée de baobabs gigantesques pouvant atteindre 30 mètres. Ils sont les derniers survivants d’une forêt importante qui se situait ici. Ces baobabs, plusieurs fois centenaires, sont protégés mais leur devenir reste toujours fragile. Au-delà de leur taille imposante, ces arbres sont aussi utiles pour les nombreux oiseaux. Leurs troncs sont comme des réservoirs d’eau, très appréciés dans ce paysage plutôt aride. Morondava est un excellent point de départ pour explorer l’ouest du pays et ses trésors (tsingys, village de pêcheurs, réserves…).</p>
+       <h3 class="tete"><li><em><strong>La réserve d'Anja</strong></em></li></h3>
+       <br><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Anja_Reserve%2C_Madagascar_%283953856468%29.jpg/1024px-Anja_Reserve%2C_Madagascar_%283953856468%29.jpg"width="250">
+       <p class="titre">Traversant le pays du nord au sud, la RN7 donne accès à de multiples espaces naturels. Au sud de Ranomafana, faites une pause à Anja. Des villageois ont développé un projet communautaire autour de la découverte des makis cattas. Ces espiègles lémuriens à la queue rayée de noir et de blanc crapahutent dans les amas rocheux de la réserve. Accompagné d’un habitant, sillonnez un sentier entre les rochers et la forêt enchevêtrée. Ne soyez pas surpris si vous tombez nez à nez avec un maki catta en train de se délecter d’un fruit. Protégés et ayant accès à de la nourriture en abondance, ils ne s’effraient pas du passage de quelques curieux. Pour les enfants, c’est une très belle occasion d’être en proximité avec ces animaux. En grimpant un peu, accédez à un promontoire donnant sur la vallée. Un point de vue superbe ! </p>
+       <h3 class="tete"><li><em><strong>Antsirabe</strong></em></li></h3> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Antsirabe_-_%C3%A9glise.JPG/1024px-Antsirabe_-_%C3%A9glise.JPG"alt="église"width="250">
+       <p class="titre">3e plus grande ville de Madagascar, Antsirabe est une ville agréable où il fait bon se balader à pied ou en pousse-pousse. Ce moyen de transport est en effet très développé dans la ville. Au détour des ruelles, dénichez les vestiges de l’époque coloniale. Certains édifices ont été conservés à l’instar de la très belle gare, la cathédrale et l’hôtel des Thermes. Dans ce dernier, offrez-vous un instant de bien être en testant les sources thermales qui font la réputation de la ville. Enfin, ne manquez pas les marchés pleins de vie de la ville. Celui de Satbosy, le plus important de Madagascar est haut en couleur, vous ne saurez plus où donner de la tête. Visitez également les nombreux ateliers d’artisans où batiks, objets en corne de Zébu et broderies sont confectionnés.</p>
+       <h3 class="tete"><li><em><strong>Le parc national d'Andasibe – Mantadia</strong></em></li></h3><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Diadem_sifaka_andasibe.JPG/1024px-Diadem_sifaka_andasibe.JPG"alt="lemurien"width="250">
+       <p class="titre">Situé à 3 h de la capitale malgache, ce parc national est bien connu car il abrite le plus grand lémurien du monde : l’Indri Indri. De couleur noire et blanche, il peut atteindre les 80 cm. Randonnez sur les différents sentiers pour tenter de le rencontrer. Identifiez-le grâce à ses oreilles touffues et son regard perçant. En chemin, dénichez aussi, dans la forêt primaire, d’autres animaux (oiseaux, caméléons, insectes). Ils apprécient particulièrement cet environnement humide où cascades et piscines naturelles s’intègrent magnifiquement dans la végétation.</p>
+       <h3 class="tete"><li><em><strong>Betafo</strong></em></li></h3><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Rizi%C3%A8res_Betafo_3.jpg/1024px-Rizi%C3%A8res_Betafo_3.jpg"alt="riziére"width="250">
+       <p class="titre">À quelques encablures d’Antsirabe, dans les hauts plateaux, le village vallonné de Betafo propose un décor composé de rizières merveilleuses. En terrasse, elles ont été façonnées par la main de l’homme. Le camaïeu de verts des plants de riz contraste avec la terre rouge de Madagascar. Baladez-vous entre les parcelles, en équilibre sur les monticules de terre et échangez avec les riziculteurs. Ainsi, prenez conscience de toutes les étapes et tout le travail nécessaire pour produire le riz. Durant la récolte, vers le mois d’avril, les rizières se parent d’un jaune flamboyant qui irradie tout le paysage. </p>
+       <h3 class="tete"><li><em><strong>Canal des Pangalanes</strong></em></li></h3><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Pangalanes_-_10.jpg/1024px-Pangalanes_-_10.jpg"alt="canal"width="250">
+       <p class="titre">Non loin de la côte est, près de Tamatave, un enchevêtrement de rivières et de lacs dessine une région hors des sentiers battus à Madagascar : le canal des Pangalanes. Entre terre et mer, sillonnez cet écosystème intriguant en pirogue. Sur les rives, repérez le jovial ravenala, l’arbre emblématique du pays mais aussi des crocodiles, oiseaux et serpents qui se dissimulent discrètement. Voguez paisiblement au travers de la mangrove et laissez juste le temps filer. Au gré des villages de pêcheurs, faites des pauses pour rencontrer les habitants et les artisans locaux. Ils se feront un plaisir de partager avec vous leur savoir-faire.</p>
+       <h3 class="tete"><li><em><strong>Belo sur mer</strong></em></li></h3><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Chantier_naval_%C3%A0_Belo_sur_Mer_-_Madagascar.jpg/800px-Chantier_naval_%C3%A0_Belo_sur_Mer_-_Madagascar.jpg"alt="chantier navale"width="180">
+       <p class="titre">Sur la côte ouest, dans une jolie baie se niche le village de pêcheurs de Belo sur mer. Arrêtez-vous un instant sur ses magnifiques plages avant d’explorer ses salines infinies. Ici la pêche et la culture du sel rythment la vie des habitants. Regardez comment le sel jaillit du sable grâce à la dextérité des villageois. Savoir-faire que l’on retrouve aussi dans les chantiers de constructions de bateaux traditionnels. Prenez le large à bord d’un boutre avec un pêcheur, le vent vous portera le long du littoral. Une expérience vivifiante ! </p>
+        </h3>
+       
+        <h3>par ailleurs Madagascar est aussi réputer  pour sont agriculture </h3>
+        <h3 class="tete">c'est culture les plus importante sont:</h3>
+        <ol class="titre">
+        <li>le riz</li>
+        <li>le manioc</li>
+            <li>la vanille</li>
+        </ol>
+        <h3 class="tete">mais aussi d'autres comme:</h3>
+        <ul class="titre">
+            <li>les litchis</li>
+            <li>les epices (comme le clous de girofles, le poivre, la canelles ou le gingembre)
+            <li>le cacao</li>
+        </ul> <h3>Et toutes ces chose ne sont qu’un aperçu des merveilles que Madagascar as a offrir.</h3>
+    </body>
+</html>
